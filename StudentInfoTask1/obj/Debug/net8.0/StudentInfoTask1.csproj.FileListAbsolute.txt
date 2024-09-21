@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\bin\Debug\net8.0\StudentInfoTask1.exe
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\bin\Debug\net8.0\StudentInfoTask1.deps.json
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\bin\Debug\net8.0\StudentInfoTask1.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\bin\Debug\net8.0\StudentInfoTask1.dll
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\bin\Debug\net8.0\StudentInfoTask1.pdb
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\StudentInfoTask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\StudentInfoTask1.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\StudentInfoTask1.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\StudentInfoTask1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\StudentInfoTask1.dll
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\refint\StudentInfoTask1.dll
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\StudentInfoTask1.pdb
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\StudentInfoTask1.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Coding\StudentInfoTask1\obj\Debug\net8.0\ref\StudentInfoTask1.dll
